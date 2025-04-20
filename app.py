@@ -33,7 +33,7 @@ with st.sidebar.expander("⚖️ Similarity Preference: Audio vs. Genre/Tags"):
 
 # Title and description
 st.title("🎧 Smart Music Recommender : Musik Empfehlung : RhythMatch")
-st.markdown("Welcome to the "Musik Empfehlung : RhythMatch application" ! 🎶 Select a song to get similar song recommendations based on audio features and genre/tags.")
+st.markdown("Welcome to the 'Musik Empfehlung : RhythMatch application' ! 🎶 Select a song to get similar song recommendations based on audio features and genre/tags.")
 
 # --- Filtered song list ---
 if selected_artist != "All":
