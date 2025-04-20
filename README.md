@@ -3,15 +3,12 @@ Music Recommendation
 
 Key Features:
       1.	Recommendation Engine:
-        Combines audio-based features (e.g., danceability, energy) and metadata features (genre, tags) to identify songs similar to user-selected tracks. Incorporates cosine similarity and 
-        customizable weighting to adapt to user preferences.
-      
+                    Combines audio-based features (e.g., danceability, energy) and metadata features (genre, tags) to identify songs similar to user-selected tracks. Incorporates cosine                              similarity and customizable weighting to adapt to user preferences.
       2.	Interactive Dashboard:
-      A user-friendly interface built using Streamlit, allowing users to:
-      o	Explore personalized recommendations.
-      o	Filter by artist and adjust similarity preferences (audio vs. metadata).
-      o	Gain insights into user trends and song popularity.
-      
+            A user-friendly interface built using Streamlit, allowing users to:
+            o	Explore personalized recommendations.
+            o	Filter by artist and adjust similarity preferences (audio vs. metadata).
+            o	Gain insights into user trends and song popularity.
       3.	Transparency:
       Provides clear reasoning behind recommendations, emphasizing audio-based matches or metadata alignment (genre/tags).
 
